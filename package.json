@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Anaya",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "readline-sync": "^1.4.9",
+    "standard": "^11.0.1"
+  }
+}
